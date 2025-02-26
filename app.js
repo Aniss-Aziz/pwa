@@ -6,7 +6,6 @@ button.addEventListener("click", () => {
       const notify = new Notification("First Notification", {
         body: "Test Notification",
         icon: "logo-multidiag.png",
-        tag: "Test",
       });
     } else {
       console.log("permission refusée");
