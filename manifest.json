@@ -3,6 +3,7 @@
   "short_name": "MultiDiag",
   "name": "MultiDiag App",
   "start_url": "/?home=true",
+  "description": "POC PWA",
   "icons": [
     {
       "src": "icons/manifest-icon-192.maskable.png",
